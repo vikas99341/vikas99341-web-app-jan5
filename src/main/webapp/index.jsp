@@ -3,7 +3,7 @@
 	<head>
 		<title>Welcome to Jenkins-Tomcat Integration </title>
 		<%!
-			String title = "Hello World , How are you ? ";
+			String title = "Hello World, How are you ? ";
 		%>
 	</head>
 	<body>
